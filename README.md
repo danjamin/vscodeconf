@@ -44,7 +44,7 @@ Go to "Help > Welcome" and install "JavaScript" support
   "editor.formatOnPaste": false,
   "editor.fontFamily": "Fira Code",
   "editor.fontSize": 13,
-  "editor.fontWeight": bold,
+  "editor.fontWeight": "bold",
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
   "editor.renderWhitespace": "boundary",
