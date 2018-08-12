@@ -7,11 +7,9 @@ Note: this is a configuration geared towards mostly JavaScript and Node developm
 - [vscodecandothat.com](http://vscodecandothat.com)
 - [vscode marketplace](https://marketplace.visualstudio.com/vscode)
 
-
 ## Add JavaScript Support:
 
 Go to "Help > Welcome" and install "JavaScript" support
-
 
 ## Install (the best) Extensions:
 
@@ -20,11 +18,9 @@ Go to "Help > Welcome" and install "JavaScript" support
 - [Prettier](vscode:extension/esbenp.prettier-vscode)
 - [Git Lens](vscode:extension/eamodio.gitlens)
 
-
 ## Install the Fira Code font
 
 [Fira Code Font](https://github.com/tonsky/FiraCode)
-
 
 ## Keyboard Shortcuts
 
@@ -44,43 +40,38 @@ Go to "Help > Welcome" and install "JavaScript" support
 
 ```json
 {
-    "workbench.colorTheme": "Visual Studio Light",
-    "editor.formatOnPaste": false,
-    "editor.fontFamily": "Fira Code",
-    "editor.fontSize": 13,
-    "editor.fontLigatures": true,
-    "editor.formatOnSave": true,
-    "editor.renderWhitespace": "boundary",
-    "editor.cursorBlinking": "smooth",
-    "files.exclude": {
-        "**/.git": true,
-        "**/.svn": true,
-        "**/.hg": true,
-        "**/CVS": true,
-        "**/.DS_Store": true,
-        "**/.idea": true,
-    },
-    "prettier.singleQuote": true,
-    "prettier.eslintIntegration": true,
-    "prettier.tabWidth": 2,
-    "bracketPairColorizer.consecutivePairColors": [
-        "()",
-        "[]",
-        "{}",
-        [
-            "#777",
-            "Orange",
-            "Blue",
-            "SeaGreen",
-            "Orchid",
-        ],
-        "Red"
-    ],
-    "emmet.triggerExpansionOnTab": true,
-    "emmet.includeLanguages": {
-        "javascript": "javascriptreact"
-    },
-    "npm.enableScriptExplorer": true,
-    "javascript.implicitProjectConfig.checkJs": false,
+  "workbench.colorTheme": "Visual Studio Light",
+  "editor.formatOnPaste": false,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 13,
+  "editor.fontWeight": bold,
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.renderWhitespace": "boundary",
+  "editor.cursorBlinking": "smooth",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/.idea": true
+  },
+  "prettier.singleQuote": true,
+  "prettier.eslintIntegration": true,
+  "prettier.tabWidth": 2,
+  "bracketPairColorizer.consecutivePairColors": [
+    "()",
+    "[]",
+    "{}",
+    ["#777", "Orange", "Blue", "SeaGreen", "Orchid"],
+    "Red"
+  ],
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "npm.enableScriptExplorer": true,
+  "javascript.implicitProjectConfig.checkJs": false
 }
 ```
