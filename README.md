@@ -4,8 +4,8 @@ Note: this is a configuration geared towards mostly JavaScript and Node developm
 
 ## Check for new stuff
 
-[vscodecandothat.com](vscodecandothat.com)
-[vscode marketplace](https://marketplace.visualstudio.com/vscode)
+- [vscodecandothat.com](vscodecandothat.com)
+- [vscode marketplace](https://marketplace.visualstudio.com/vscode)
 
 
 ## Add JavaScript Support:
@@ -28,17 +28,17 @@ Go to "Help > Welcome" and install "JavaScript" support
 
 ## Keyboard Shortcuts
 
-- Go Back: 		cmd-[
-- Go Forward: 		cmd-]
-- bookmarks.toggle: 	cmd-b
-- uppercase: 		cmd-k, cmd-u
-- lowercase: 		cmd-k, cmd-l
-- move line down: 	ctrl-cmd-down
-- move line up: 		ctrl-cmd-up
-- copy line down: 	shift-cmd-d
-- discard changes:	cmd-alt-z
+- Go Back: `cmd-[`
+- Go Forward: `cmd-]`
+- bookmarks.toggle: `cmd-b`
+- uppercase: `cmd-k, cmd-u`
+- lowercase: `cmd-k, cmd-l`
+- move line down: `ctrl-cmd-down`
+- move line up: `ctrl-cmd-up`
+- copy line down: `shift-cmd-d`
+- discard changes: `cmd-alt-z`
 
-- remove key binding: Remove Line Comment
+- remove key binding: **Remove Line Comment**
 
 ## User Settings:
 
