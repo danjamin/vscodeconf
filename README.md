@@ -4,7 +4,7 @@ Note: this is a configuration geared towards mostly JavaScript and Node developm
 
 ## Check for new stuff
 
-- [vscodecandothat.com](vscodecandothat.com)
+- [vscodecandothat.com](http://vscodecandothat.com)
 - [vscode marketplace](https://marketplace.visualstudio.com/vscode)
 
 
